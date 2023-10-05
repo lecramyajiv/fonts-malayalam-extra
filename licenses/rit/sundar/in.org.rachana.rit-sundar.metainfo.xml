@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 Rajeesh K V <rajeeshknambiar@gmail.com> -->
+<component type="font">
+  <id>in.org.rachana.rit-sundar</id>
+  <metadata_license>CC-BY-SA-4.0</metadata_license>
+  <project_license>OFL-1.1</project_license>
+  <name>RIT Sundar Malayalam font</name>
+  <name xml:lang="ml">സുന്ദര്‍  ലിപിസഞ്ചയം</name>
+  <summary>RIT Sundar Malayalam Unicode font</summary>
+  <description>
+    <p>
+        A traditional orthography display font for Malayalam script
+        maintained by Rachana Institute of Typography. 
+    </p>
+    <p>
+        This font is created, named and released in memory of Sundar (Sundar
+        Ramanatha Iyer; April 23, 1953 -- November 12, 2016).
+    </p>
+  </description>
+  <update_contact>rajeeshknambiar@gmail.com</update_contact>
+  <provides>
+    <font>RIT Sundar Bold</font>
+  </provides>
+  <languages>
+    <lang>ml</lang>
+    <lang>en</lang>
+  </languages>
+  <url type="homepage">http://rachana.org.in/</url>
+  <metadata>
+  <value key="FontSampleText">മനുഷ്യരെല്ലാവരും തുല്യാവകാശങ്ങളോടും അന്തസ്സോടും
+	 സ്വാതന്ത്ര്യത്തോടും കൂടി ജനിച്ചവരാണ്. അന്യോന്യം ഭ്രാതൃഭാവത്തോടെ പെരുമാറുവാനാണ്
+	 മനുഷ്യന്നു വിവേകബുദ്ധിയും മനസ്സാക്ഷിയും സിദ്ധമായിരിക്കുന്നത്.</value>
+  <value key="FontIconText">അഇ</value>
+  </metadata>
+</component>
