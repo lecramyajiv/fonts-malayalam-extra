@@ -1,6 +1,6 @@
 The list of fonts in fonts-malayalam-extra are
 
-1. Swathanthra Malayalam Computing [SMC]
+1. Swathanthra Malayalam Computing (SMC)
 	a. Chilanka
 	b. Gayathri
 	c. Karumbi
@@ -9,7 +9,7 @@ The list of fonts in fonts-malayalam-extra are
 	f. Nupuram
 	g. Uroob
 
-2. Rachana Institute of Typography [RIT]
+2. Rachana Institute of Typography (RIT)
 	a. Panmana
 	b. TNJOY
 	c. Kutty
@@ -17,7 +17,7 @@ The list of fonts in fonts-malayalam-extra are
 	e. sundar
 	f. Karuna
 
-3. New Life Computing Institute [NLCI]
+3. New Life Computer Institute (NLCI)
 	a. Kalyani
 	b. Vayalar
 	c. Malabar
