@@ -22,6 +22,6 @@ The list of fonts in fonts-malayalam-extra are
 	2. Vayalar
 	3. Malabar
 
-4 Google/EkType
+ 4 Google/EkType
 	1. AnekMalayalam
 	2. BalooChettan2 
