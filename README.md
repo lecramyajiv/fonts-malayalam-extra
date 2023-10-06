@@ -11,7 +11,7 @@ for slackware linux distro.
 The Fonts are from 
 1. Swathanthra Malayalam Computing
 2. Rachana Institute of Typogaphy
-3. New Life Computing Institute
+3. New Life Computer Institute
 4. Google/EkType
 
 The Homepages and download urls are in URL.md
