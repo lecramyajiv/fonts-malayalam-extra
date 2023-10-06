@@ -21,6 +21,6 @@
 12. [TNJOY](https://gitlab.com/rit-fonts/tnjoy/-/jobs/artifacts/1.5/download?job=build-tag)
 13. [Kutty](https://gitlab.com/rit-fonts/Kutty/-/jobs/artifacts/1.2/download?job=build-tag)
 14. [Ezhuthu](https://gitlab.com/rit-fonts/ezhuthu/-/jobs/artifacts/1.4/download?job=build-tag)
-15. [Sundar] (https://gitlab.com/rit-fonts/Sundar/-/jobs/artifacts/2.2/download?job=build-tag)
+15. [Sundar](https://gitlab.com/rit-fonts/Sundar/-/jobs/artifacts/2.2/download?job=build-tag)
 16. [Karuna](https://gitlab.com/rit-fonts/karuna/-/jobs/artifacts/1.1/download?job=build-tag)
 17. [NLCI](https://github.com/nlci/mlym-font-vayalar/archive/refs/heads/master.zip) 
