@@ -2,7 +2,7 @@
 
 Malayalam is an Indian language spoken in the
 state of Kerala and also in the union Territory
-of Lakshadweep and Puducherry and is spokken by
+of Lakshadweep and Puducherry and is spoken by
 34 million people in India.
 
 This is an extra collection of malayalam fonts 
