@@ -23,4 +23,4 @@
 14. [Ezhuthu](https://gitlab.com/rit-fonts/ezhuthu/-/jobs/artifacts/1.4/download?job=build-tag)
 15. [Sundar](https://gitlab.com/rit-fonts/Sundar/-/jobs/artifacts/2.2/download?job=build-tag)
 16. [Karuna](https://gitlab.com/rit-fonts/karuna/-/jobs/artifacts/1.1/download?job=build-tag)
-17. [NLCI](https://github.com/nlci/mlym-font-vayalar/archive/refs/heads/master.zip) 
+17. [NLCI](https://github.com/nlci/mlym-font-vayalar/archive/b283595/mlym-font-vayalar-b2835952a0fd29bb257fb0f6171fbb4cf0975639.tar.gz)
